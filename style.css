@@ -36,6 +36,7 @@ ul li{
     padding: 16px;
     font-weight: bold;
     font-size: 23px;
+    margin-left: 0px;
 }
 .header{
     display: flex;
@@ -59,7 +60,7 @@ ul li{
     font-size: 18px;
     padding: 20px 0 20px;
     font-family: cursive;
-    margin-left: 10px;
+    margin-left: 13px;
 }
 
 .cards{
