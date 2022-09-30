@@ -33,7 +33,7 @@ ul li{
     font-weight: bolder;
 }
 .logo{
-    padding: 20px;
+    padding: 16px;
     font-weight: bold;
     font-size: 23px;
 }
@@ -44,12 +44,13 @@ ul li{
     height: 490px;
 }
 .text{
-    margin: 132px  0;
+    margin: 132px 0;
     color: #fff;
 }
 .text h2{
     font-size: 50px;
     font-family: cursive;
+    padding: 10px
 
 }
 .text p {
@@ -58,7 +59,9 @@ ul li{
     font-size: 18px;
     padding: 20px 0 20px;
     font-family: cursive;
+    margin-left: 10px;
 }
+
 .cards{
     background-color: #607eaa;
     height: 400px;
@@ -70,6 +73,7 @@ ul li{
     margin-top: 23px;
     margin-right: 10px;
     border-radius: 4px;
+
 }
 .card h3{
     font-family: cursive;
@@ -85,35 +89,3 @@ ul li{
 .card i{
     padding: 10px;
 }
-/* 
-.navbar{
-    background-color: #87805E;
-    
-    display: flex;
-    justify-content: space-around;
-    color: #EDDFB3;
-    font-size: 19px;
-    align-items: center;
-    height: 30px;
-    padding: 20px;
-}
-.logo{
-    /* font-weight: bolder;
-    font-size: 20px; */
-/* }
-.menu{
-    display: flex;
-
-}
-ul{
-    display: flex;
-    list-style: none;
-}
-ul li a{
-    color: #EDDFB3;
-    text-decoration: none;
-}
-ul li{
-    padding: 20px;
-    font-weight: bolder;
-} */ 
