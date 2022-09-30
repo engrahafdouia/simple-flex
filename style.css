@@ -44,7 +44,7 @@ ul li{
     height: 490px;
 }
 .text{
-    margin: 154px  0;
+    margin: 132px  0;
     color: #fff;
 }
 .text h2{
@@ -61,6 +61,7 @@ ul li{
 }
 .cards{
     background-color: #607eaa;
+    height: 400px;
 }
 .card{
     background-color: #1c3879;
